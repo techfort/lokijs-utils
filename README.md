@@ -1,0 +1,3 @@
+# lokijs-utils
+
+utils to avoid dependencies...
